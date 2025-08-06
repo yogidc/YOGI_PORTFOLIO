@@ -9,10 +9,10 @@ const EducationPage: React.FC = () => {
 
   const educationData: Education[] = [
     {
-      year: '2020–Present',
+      year: '2022–Present',
       institution: 'P.E.S College of Engineering, Mandya',
       qualification: 'B.Tech CSE',
-      score: 'CGPA: 8.83'
+      score: 'CGPA: 8.97'
     },
     {
       year: '2020–2022',
